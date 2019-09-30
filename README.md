@@ -1,4 +1,5 @@
-YOLO BBox Annotation Tool
+#YOLO BBox Annotation Tool
+
 Fast and efficient BBox annotation for your images in YOLO, and now, VOC/COCO formats!
 
 ## INTRO
@@ -8,11 +9,11 @@ This is very useful and quick tool to do annotations in YOLO format or VOC/COCO 
 ## USAGE
 1. Download the zip.
 2. Extract it.
-3. Open `boobs.html` in your browser.
+3. Open `Annotate.html` in your browser.
 4. Load images and classes and start bboxing!
 
 ## CONFIGURATION
-1. Open boobs.js.
+1. Open Annotate.js.
 2. Edit section named `parameters`.
 
 ## COMPATIBILITY
