@@ -128,7 +128,7 @@
         setFontStyles(context, false)
         context.fillText("USAGE:", zoomX(20), zoomY(50))
         context.fillText("1. Load your images (jpg, png). Might be slow if many or big.", zoomX(20), zoomY(100))
-        context.fillText("2. Load your classes (yolo *.names format).", zoomX(20), zoomY(150))
+        context.fillText("2. Load your classes (as in yolo *.names format) and create a .txt file of classes.", zoomX(20), zoomY(150))
         context.fillText("3. Load or restore, if any, bboxes (zipped yolo/voc/coco files).", zoomX(20), zoomY(200))
         context.fillText("NOTES:", zoomX(20), zoomY(300))
         context.fillText("1: Images and classes must be loaded before bbox load.", zoomX(20), zoomY(350))
