@@ -1,4 +1,4 @@
-# In browser YOLO Annotation Tool for faster annotation
+# In browser YOLOv3 Annotation Tool for faster annotation
 
 Fast and efficient BBox annotation for your images in YOLO, and now, VOC/COCO formats!
 
