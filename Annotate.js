@@ -650,13 +650,13 @@
     }
 
     const setCurrentImage = (image) => {
-        if (resetCanvasOnChange === true) {
-            resetCanvasPlacement()
-        }
-
-        if (fittedZoom === true) {
-            fitZoom(image)
-        }
+ //       if (resetCanvasOnChange === true) {
+ //           resetCanvasPlacement()
+ //       }
+//
+//        if (fittedZoom === true) {
+ //           fitZoom(image)
+ //       }
 
         const reader = new FileReader()
 
@@ -1401,3 +1401,4 @@
         })
     }
 })()
+
